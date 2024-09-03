@@ -31,8 +31,8 @@ const Wrapper = styled.div`
   @media (min-width: 768px) {
     display: flex;
     align-items: center;
+    height: 40px;
     gap: ${24 / 16}rem;
-    padding-block: ${12 / 16}rem;
     padding-inline: ${32 / 16}rem;
   }
 `;
